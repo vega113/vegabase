@@ -1,0 +1,8 @@
+/bin/
+activator*
+.project
+.classpath
+.cache
+.settings
+project
+target
